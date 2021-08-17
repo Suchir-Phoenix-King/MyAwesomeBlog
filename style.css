@@ -1,0 +1,36 @@
+body {
+    background-color: royalblue;
+    text-align:center;
+    color:azure;
+        
+}
+
+h1 {
+    
+    font-size: 50px;
+    
+}
+
+.line {
+    height:6px;
+    width:70px;
+    margin: 8px auto;
+    background-color: azure;
+}
+
+#bio {
+    background-color: darkblue;
+}
+
+#game {
+    background-color: aqua;
+}
+
+#app{
+    background-color: cadetblue;
+}
+
+#chatbot {
+    background-color: cornflowerblue;
+}
+
